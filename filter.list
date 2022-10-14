@@ -1,9 +1,8 @@
 https://iplists.firehol.org/files/bds_atif.ipset
-https://iplists.firehol.org/files/dshield.netset
-https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/et_block.netset
+https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
-https://iplists.firehol.org/files/iblocklist_cruzit_web_attacks.netset
-https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
