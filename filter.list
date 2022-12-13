@@ -1,6 +1,7 @@
-https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/spamhaus_edrop.netset
+https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/greensnow.ipset
-https://iplists.firehol.org/files/spamhaus_drop.netset
-https://iplists.firehol.org/files/spamhaus_edrop.netset
