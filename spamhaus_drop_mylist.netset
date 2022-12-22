@@ -1,20 +1,17 @@
-#
-# spamhaus_drop
+# My own version until Firehol fixes the ingestion sh code.  
+# Firehol's version is 2 weeks old while Spamhaus is up-to-date
 #
 # ipv4 hash:net ipset
 #
-# [Spamhaus.org] (http://www.spamhaus.org) DROP list 
+# [Spamhaus.org] (https://www.spamhaus.org) DROP list 
 # (according to their site this list should be dropped at 
 # tier-1 ISPs globally)
 #
 # Maintainer      : Spamhaus.org
 # Maintainer URL  : https://www.spamhaus.org/
 # List source URL : https://www.spamhaus.org/drop/drop.txt
-# Source File Date: Thu Dec 22 
-#
-# My own version until Firehol fixes the ingestion sh code.  
-# Firehol's version is > 2 weeks old while Spamhaus is up-to-date
-# This is my version of the latest of date above
+# Source File Date: Thu Dec 20 2022
+# Firehol list has 880 netsets while spamhaus has 895
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
