@@ -1,0 +1,39 @@
+# Until Firehol fixes the ingestion sh code of :
+# Spamhaus and dshield are as of Dec 5th in firehol while source files are current
+# 
+# This file contains additions for each since last updates made by firehol
+#
+# List source URLs : https://www.spamhaus.org/drop/drop.txt and httpa://feeds.dshield.org/block.txt
+#
+# Source File Dates: Thu Dec 20 2022 (spamhaus) Fri Dec 23 2022 (dshield)
+103.32.132.0/22
+116.144.0.0/15
+116.146.0.0/15
+160.116.0.0/16
+160.117.0.0/16
+188.208.48.0/22
+188.208.52.0/22
+188.213.248.0/22
+188.213.252.0/22
+188.214.94.0/24
+188.214.95.0/24
+190.168.128.0/18
+190.168.192.0/18
+2.57.232.0/23
+2.57.234.0/23
+202.27.100.0/22
+202.27.96.0/23
+202.27.98.0/24
+202.27.99.0/24
+205.148.128.0/18
+205.148.192.0/18
+206.197.28.0/24
+206.197.29.0/24
+206.226.0.0/19
+206.226.32.0/19
+207.110.96.0/19
+89.248.163.0/24
+89.248.165.0/24
+185.156.73.0/24
+92.63.197.0/24
+94.102.61.0/24
