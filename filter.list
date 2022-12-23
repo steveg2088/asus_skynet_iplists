@@ -1,8 +1,9 @@
 https://iplists.firehol.org/files/bds_atif.ipset
+https://iplists.firehol.org/files/blocklist_de_strongips.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
-https://raw.githubusercontent.com/steveg2088/asus_skynet_iplists/main/spamhaus_drop_delta.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
+https://raw.githubusercontent.com/steveg2088/asus_skynet_iplists/main/spamhaus_drop_dshield_deltas.netset
