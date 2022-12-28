@@ -1,5 +1,4 @@
-#
-# Based on: Dshield Top 20 attacking class C (/24) subnets
+# Based on: dshield.netset: Top 20 attacking class C (/24) subnets
 # These are new ip ranges added to dshield as of Dec 28 since the last time Firehol had updated (Dec 5)
 # Using this until Firehol feed is fixed
 92.63.197.0/24
