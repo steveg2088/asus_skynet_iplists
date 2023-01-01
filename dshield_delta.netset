@@ -1,0 +1,9 @@
+# List source URL : https://feeds.dshield.org/block.txt
+# 
+# This file as of: Jan 1 2023
+#
+# This file includes net new subnets in dshield source list that are not in firehol's Dec 5th 2022 list
+# and that are tagged with malware in alienvault otx
+#
+45.143.203.0/24
+92.63.197.0/24
