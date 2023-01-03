@@ -2,9 +2,9 @@
 # https://www.spamhaus.org/drop/drop.txt
 # Last-Modified: Tue, 20 Dec 2022 04:06:45 GMT
 # Expires: Mon, 02 Jan 2023 21:02:29 GMT
-#   This is a modified list created based on:
-#   https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
-#   I am using until Firehol fixs thier ingestion issue
+# This is a modified list created based on:
+# https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
+# I am using until Firehol fixs thier ingestion issue
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
