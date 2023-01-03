@@ -1,12 +1,12 @@
 #   DShield.org Recommended Block List 
 #   
 #   primary URL: https://feeds.dshield.org/block.txt
-#     PGP Sign.: https://feeds.dshield.org/block.txt.asc
+#   PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
 #    updated: Mon Jan  2 22:15:02 2023 UTC
 #   
-#    This list summarizes the top 20 attacking class C (/24) subnets
+#   This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
 #   number of targets reporting scans from this subnet.
 #
