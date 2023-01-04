@@ -1,10 +1,9 @@
-# Spamhaus DROP List 2023/01/02 - (c) 2023 The Spamhaus Project
+# Spamhaus DROP List 2023/01/04 - (c) 2023 The Spamhaus Project
 # https://www.spamhaus.org/drop/drop.txt
-# Last-Modified: Tue, 20 Dec 2022 04:06:45 GMT
-# Expires: Mon, 02 Jan 2023 21:02:29 GMT
+# Last-Modified: Wed, 04 Jan 2023
 # This is a modified list created based on:
 # https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
-# I am using until Firehol fixs thier ingestion issue
+# I am using until Firehol fixes thier ingestion issue
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
@@ -573,7 +572,6 @@
 193.243.0.0/17
 193.254.48.0/20
 194.41.60.0/23
-194.147.140.0/24
 195.181.224.0/20
 195.210.96.0/19
 196.1.109.0/24
