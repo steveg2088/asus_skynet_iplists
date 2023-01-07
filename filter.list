@@ -1,9 +1,7 @@
-https://blocklist.greensnow.co/greensnow.txt
-https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+https://blocklist.greensnow.co/greensnow.txt
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-https://iplists.firehol.org/files/et_dshield.netset
-https://iplists.firehol.org/files/et_spamhaus.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
