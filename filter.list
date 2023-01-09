@@ -1,7 +1,8 @@
-https://raw.githubusercontent.com/steveg2088/asus_skynet_iplists/main/spamhaus_drop.netset
-https://raw.githubusercontent.com/steveg2088/asus_skynet_iplists/main/dshield.netset
-https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
+https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
 https://blocklist.greensnow.co/greensnow.txt
 https://www.binarydefense.com/banlist.txt
 https://iplists.firehol.org/files/cybercrime.ipset
