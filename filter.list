@@ -1,9 +1,10 @@
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
-https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/4.txt
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://www.binarydefense.com/banlist.txt
+https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
+https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
