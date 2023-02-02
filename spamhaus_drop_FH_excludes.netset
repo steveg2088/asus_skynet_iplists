@@ -1,3 +1,4 @@
+# This is a list of 15 netsets to block where Firehol always excludes from the spamhaus_drop source list
 2.57.234.0/23
 103.32.132.0/22
 116.146.0.0/15
