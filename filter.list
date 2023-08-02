@@ -9,3 +9,4 @@ https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
 https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
+https://iplists.firehol.org/files/bruteforceblocker.ipset
