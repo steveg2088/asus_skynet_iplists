@@ -6,6 +6,4 @@ https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
-https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://www.talosintelligence.com/documents/ip-blacklist
-https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
