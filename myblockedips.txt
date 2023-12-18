@@ -21,5 +21,3 @@
 91.204.227.47
 91.204.227.48
 91.204.227.49
-# Seychelles Malicious Malware Net-range (often run by Russia Hackers) to block per Team Cymru research.
-185.215.113.0/24
