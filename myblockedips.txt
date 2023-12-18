@@ -1,5 +1,6 @@
 # THIS IS A LIST I USE TO BLOCK IP'S FOUND VIA MY OWN RESEARCH
 # ALL IP'S WERE VALIDATED VIA ALIENVAULT OTX AS MALICIOUS
+# Last updated: 2023-12-17
 # IceID Malware via Chile as published by Team Cymru article
 216.73.159.132
 216.73.159.134
@@ -20,6 +21,5 @@
 91.204.227.47
 91.204.227.48
 91.204.227.49
-# Seychelles Malicious Malware Netrange to block.  They also work as front for Russian attacks.  
-# As of 2023-12-17, also on spamhaus_drop.  Adding in case it is ever removed.
+# Seychelles Malicious Malware Net-range (often run by Russia Hackers) to block per Team Cymru research.
 185.215.113.0/24
