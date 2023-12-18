@@ -1,7 +1,6 @@
 # THIS IS A LIST I USE TO BLOCK IP'S FOUND VIA MY OWN RESEARCH
 # ALL IP'S WERE VALIDATED VIA ALIENVAULT OTX AS MALICIOUS
-# IceID Malware via Chile as published by Team Cymru
-# MoqHao C2 Malware (91.204.227.x RANGE) as published by Team Cymru
+# IceID Malware via Chile as published by Team Cymru article
 216.73.159.132
 216.73.159.134
 216.73.159.29
@@ -11,6 +10,7 @@
 135.148.217.85
 5.196.196.252
 80.66.88.71
+# MoqHao C2 Malware as published by Team Cymru article
 91.204.227.32
 91.204.227.33
 91.204.227.37
@@ -20,3 +20,6 @@
 91.204.227.47
 91.204.227.48
 91.204.227.49
+# Seychelles Malicious Malware Netrange to block.  They also work as front for Russian attacks.  
+# As of 2023-12-17, also on spamhaus_drop.  Adding in case it is ever removed.
+185.215.113.0/24
