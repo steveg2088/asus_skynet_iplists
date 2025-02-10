@@ -1,2 +1,2 @@
-https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/spamhaus_drop.netset
 https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
