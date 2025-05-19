@@ -2,3 +2,4 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cybercrime.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/spamhaus_drop.netset
 https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/5.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
