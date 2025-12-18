@@ -1,3 +1,4 @@
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/dshield.netset
-https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/4.txt
+https://raw.githubusercontent.com/stamparm/ipsum/refs/heads/master/levels/5.txt
